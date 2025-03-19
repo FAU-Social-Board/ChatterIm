@@ -1,27 +1,32 @@
-# FAU Social Board
+# 🌟 FAU Social Board 🌟
 
-This is an Social Media Site with a custom Parse backend that allows a user to post photos,and digital media with their friends.
+Welcome to **FAU Social Board**! This is a vibrant social media platform with a custom Parse backend, allowing you to share photos and digital media with your friends. Connect, share, and engage with your community! 📸🎉
 
-## User Stories
+## 🚀 Features
 
 The following **required** functionality is completed:
 
-- [x] User can log in.
-- [x] User can log out.
-- [x] User can sign up.
-- [x] User can view comments on a post.
-- [x] User can add a new comment.
-- [x] User can create a post.
-- [x] User can like a post.
-- [x] User can delete their own post.
-- [x] User can view their profile.
-- [x] User can view other users profile.
-- [x] User can view group messages.
-- [x] User can view support page.
+- ✅ User can log in.
+- ✅ User can log out.
+- ✅ User can sign up.
+- ✅ User can view comments on a post.
+- ✅ User can add a new comment.
+- ✅ User can create a post.
+- ✅ User can like a post.
+- ✅ User can delete their own post.
+- ✅ User can view their profile.
+- ✅ User can view other users' profiles.
+- ✅ User can view group messages.
+- ✅ User can view the support page.
 
-## Video Walkthrough
+## 🎥 Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Check out our video walkthrough of the implemented user stories:
 
-[FAU Social Board - YouTube](https://www.youtube.com/watch?v=W2SnQGOpia4)
+[![Watch the video](https://img.youtube.com/vi/W2SnQGOpia4/0.jpg)](https://www.youtube.com/watch?v=W2SnQGOpia4)
 
+## 🤝 Contributing
+
+We welcome contributions! Feel free to fork the repository and submit pull requests. Let's build something amazing together! 🌟
+
+Thank you for visiting FAU Social Board! We hope you enjoy your experience. 😊
