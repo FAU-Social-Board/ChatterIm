@@ -1,6 +1,6 @@
-# 🌟 FAU Social Board 🌟
+# 🌟 ChatterIm 🌟
 
-Welcome to **FAU Social Board**! This is a vibrant social media platform with a custom Parse backend, allowing you to share photos and digital media with your friends. Connect, share, and engage with your community! 📸🎉
+Welcome to **ChatterIm**! This is a vibrant social media platform with a custom Parse backend, allowing you to share photos and digital media with your friends. Connect, share, and engage with your community! 📸🎉
 
 ## 🚀 Features
 
@@ -29,4 +29,4 @@ Check out our video walkthrough of the implemented user stories:
 
 We welcome contributions! Feel free to fork the repository and submit pull requests. Let's build something amazing together! 🌟
 
-Thank you for visiting FAU Social Board! We hope you enjoy your experience. 😊
+Thank you for visiting ChatterIm! We hope you enjoy your experience. 😊
